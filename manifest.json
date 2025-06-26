@@ -1,0 +1,13 @@
+{
+    "name": "EliasDH Music Library",
+    "audio": [
+        {
+            "id": 1,
+            "title": "Level Up Anthem",
+            "artist": "EliasDH AI",
+            "category": "Random",
+            "image": "https://raw.githubusercontent.com/EliasDH-com/music-library/refs/heads/main/media/images/1-level-up-anthem.png",
+            "audio": "https://raw.githubusercontent.com/EliasDH-com/music-library/refs/heads/main/media/audio/1-level-up-anthem.mp3"
+        }
+    ]
+}
