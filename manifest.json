@@ -19,11 +19,11 @@
         },
         {
             "id": 2,
-            "title": "Level Up Anthem",
-            "artist": "EliasDH AI",
-            "category": "Random",
-            "image": "https://raw.githubusercontent.com/EliasDH-com/music-library/refs/heads/main/media/images/0-level-up-anthem.png",
-            "audio": "https://media.githubusercontent.com/media/EliasDH-com/music-library/refs/heads/main/media/audio/0-level-up-anthem.mp3"
+            "title": "Ordinary",
+            "artist": "Alex Warren",
+            "category": "Pop",
+            "image": "https://raw.githubusercontent.com/EliasDH-com/music-library/refs/heads/main/media/images/2-original.png",
+            "audio": "https://media.githubusercontent.com/media/EliasDH-com/music-library/refs/heads/main/media/audio/2-original.mp3"
         },
         {
             "id": 3,
