@@ -6,6 +6,7 @@
             "title": "Level Up Anthem",
             "artist": "EliasDH AI",
             "category": "Random",
+            "releasedatum": "01-01-2025",
             "image": "https://raw.githubusercontent.com/EliasDH-com/music-library/refs/heads/main/media/images/0-level-up-anthem.png",
             "audio": "https://media.githubusercontent.com/media/EliasDH-com/music-library/refs/heads/main/media/audio/0-level-up-anthem.mp3"
         },
@@ -14,6 +15,7 @@
             "title": "Lotje",
             "artist": "Jopke Van Dobbenburgh & Roeland Beelen",
             "category": "Pop",
+            "releasedatum": "08-03-2024",
             "image": "https://raw.githubusercontent.com/EliasDH-com/music-library/refs/heads/main/media/images/1-lotje.png",
             "audio": "https://media.githubusercontent.com/media/EliasDH-com/music-library/refs/heads/main/media/audio/1-lotje.mp3"
         },
@@ -22,6 +24,7 @@
             "title": "Ordinary",
             "artist": "Alex Warren",
             "category": "Pop",
+            "releasedatum": "07-02-2025",
             "image": "https://raw.githubusercontent.com/EliasDH-com/music-library/refs/heads/main/media/images/2-ordinary.png",
             "audio": "https://media.githubusercontent.com/media/EliasDH-com/music-library/refs/heads/main/media/audio/2-ordinary.mp3"
         },
@@ -30,6 +33,7 @@
             "title": "Azizam",
             "artist": "Ed Sheeran",
             "category": "Pop",
+            "releasedatum": "04-04-2025",
             "image": "https://raw.githubusercontent.com/EliasDH-com/music-library/refs/heads/main/media/images/3-azizam.png",
             "audio": "https://media.githubusercontent.com/media/EliasDH-com/music-library/refs/heads/main/media/audio/3-azizam.mp3"
         },
@@ -38,6 +42,7 @@
             "title": "Show Me Love",
             "artist": "WizTheMc & Bees & Honey",
             "category": "Pop",
+            "releasedatum": "07-02-2025",
             "image": "https://raw.githubusercontent.com/EliasDH-com/music-library/refs/heads/main/media/images/4-show-me-love.png",
             "audio": "https://media.githubusercontent.com/media/EliasDH-com/music-library/refs/heads/main/media/audio/4-show-me-love.mp3"
         },
@@ -46,8 +51,18 @@
             "title": "Atlas",
             "artist": "Pommelien Thijs",
             "category": "Pop",
+            "releasedatum": "21-03-2025",
             "image": "https://raw.githubusercontent.com/EliasDH-com/music-library/refs/heads/main/media/images/5-atlas.png",
             "audio": "https://media.githubusercontent.com/media/EliasDH-com/music-library/refs/heads/main/media/audio/5-atlas.mp3"
+        },
+        {
+            "id": 6,
+            "title": "Beautiful People",
+            "artist": "David Guetta & Sia",
+            "category": "Pop",
+            "releasedatum": "07-03-2025",
+            "image": "https://raw.githubusercontent.com/EliasDH-com/music-library/refs/heads/main/media/images/6-beautiful-people.png",
+            "audio": "https://media.githubusercontent.com/media/EliasDH-com/music-library/refs/heads/main/media/audio/6-beautiful-people.mp3"
         }
     ]
 }
