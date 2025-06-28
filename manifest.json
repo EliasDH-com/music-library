@@ -30,8 +30,16 @@
             "title": "Azizam",
             "artist": "Ed Sheeran",
             "category": "Pop",
-            "image": "https://raw.githubusercontent.com/EliasDH-com/music-library/refs/heads/main/media/images/1-lotje.png",
-            "audio": "https://media.githubusercontent.com/media/EliasDH-com/music-library/refs/heads/main/media/audio/1-lotje.mp3"
+            "image": "https://raw.githubusercontent.com/EliasDH-com/music-library/refs/heads/main/media/images/3-azizam.png",
+            "audio": "https://media.githubusercontent.com/media/EliasDH-com/music-library/refs/heads/main/media/audio/3-azizam.mp3"
+        },
+        {
+            "id": 4,
+            "title": "Show Me Love",
+            "artist": "WizTheMc & Bees & Honey",
+            "category": "Pop",
+            "image": "https://raw.githubusercontent.com/EliasDH-com/music-library/refs/heads/main/media/images/4-show-me-love.png",
+            "audio": "https://media.githubusercontent.com/media/EliasDH-com/music-library/refs/heads/main/media/audio/4-show-me-love.mp3"
         }
     ]
 }
