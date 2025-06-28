@@ -22,13 +22,13 @@
             "title": "Ordinary",
             "artist": "Alex Warren",
             "category": "Pop",
-            "image": "https://raw.githubusercontent.com/EliasDH-com/music-library/refs/heads/main/media/images/2-original.png",
-            "audio": "https://media.githubusercontent.com/media/EliasDH-com/music-library/refs/heads/main/media/audio/2-original.mp3"
+            "image": "https://raw.githubusercontent.com/EliasDH-com/music-library/refs/heads/main/media/images/2-ordinary.png",
+            "audio": "https://media.githubusercontent.com/media/EliasDH-com/music-library/refs/heads/main/media/audio/2-ordinary.mp3"
         },
         {
             "id": 3,
-            "title": "Lotje",
-            "artist": "Jopke Van Dobbenburgh & Roeland Beelen",
+            "title": "Azizam",
+            "artist": "Ed Sheeran",
             "category": "Pop",
             "image": "https://raw.githubusercontent.com/EliasDH-com/music-library/refs/heads/main/media/images/1-lotje.png",
             "audio": "https://media.githubusercontent.com/media/EliasDH-com/music-library/refs/heads/main/media/audio/1-lotje.mp3"
