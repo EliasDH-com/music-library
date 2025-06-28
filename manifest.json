@@ -40,6 +40,14 @@
             "category": "Pop",
             "image": "https://raw.githubusercontent.com/EliasDH-com/music-library/refs/heads/main/media/images/4-show-me-love.png",
             "audio": "https://media.githubusercontent.com/media/EliasDH-com/music-library/refs/heads/main/media/audio/4-show-me-love.mp3"
+        },
+        {
+            "id": 5,
+            "title": "Atlas",
+            "artist": "Pommelien Thijs",
+            "category": "Pop",
+            "image": "https://raw.githubusercontent.com/EliasDH-com/music-library/refs/heads/main/media/images/5-atlas.png",
+            "audio": "https://media.githubusercontent.com/media/EliasDH-com/music-library/refs/heads/main/media/audio/5-atlas.mp3"
         }
     ]
 }
