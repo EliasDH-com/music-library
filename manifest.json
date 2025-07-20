@@ -63,6 +63,15 @@
             "releasedatum": "07-03-2025",
             "image": "https://raw.githubusercontent.com/eliasdhcom/music-library/refs/heads/main/media/images/6-beautiful-people.png",
             "audio": "https://media.githubusercontent.com/media/eliasdhcom/music-library/refs/heads/main/media/audio/6-beautiful-people.mp3"
+        },
+        {
+            "id": 7,
+            "title": "My heart will go on",
+            "artist": "DJ Muscleboy",
+            "category": "Random",
+            "releasedatum": "01-10-2024",
+            "image": "https://raw.githubusercontent.com/eliasdhcom/music-library/refs/heads/main/media/images/7-my-heart-will-go-on.png",
+            "audio": "https://media.githubusercontent.com/media/eliasdhcom/music-library/refs/heads/main/media/audio/7-my-heart-will-go-on.mp3"
         }
     ]
 }
